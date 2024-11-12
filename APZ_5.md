@@ -8,4 +8,4 @@ password: $ON4bbRnGy1E11);wiKeA$jZ5yc-Dyfo
 - Скачуємо Remote Desktop Connection та вказуємо всі необхідні дані
 - Заходимо в віндовс та змінюємо бекграунд
 
-
+[Скриншот з новим бекграундом](lab5.png)
